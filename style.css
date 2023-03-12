@@ -6,7 +6,7 @@
   /* box-sizing: border-box; */
 }
 body {
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-color: hsl(225, 100%, 94%);
   overflow-x: hidden;
